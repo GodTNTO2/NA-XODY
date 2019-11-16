@@ -10,6 +10,28 @@ h2{
 	background-image:url(http://ilyakhasanov.ru/images/background/61.png);
 	flex-direction:row;
 	justify-content: space-around;
-p{
-	font-size: 70px;
+}
+
+#div2{
+
+	display:flex;
+	background-image:url(https://cdn.pixabay.com/photo/2016/04/08/00/42/seamless-1315326_1280.jpg);
+	flex-direction:row;
+	justify-content: space-around;
+}
+#div3{
+	background-image:url(http://i9.beon.ru/23/33/1513323/9/64484009/1452095000x3750.jpeg);
+
+}
+#div4{
+	background-image:url(http://i87.beon.ru/32/12/1421232/64/79189064/pattern1.jpeg)
+}
+#div5{
+    display:flex;
+	background-image:url(https://cdn.pixabay.com/photo/2016/04/08/00/42/seamless-1315326_1280.jpg);
+	flex-direction:row;
+	justify-content: space-around;
+}
+#div6{
+	background-image:url(http://i87.beon.ru/32/12/1421232/64/79189064/pattern1.jpeg)
 }
